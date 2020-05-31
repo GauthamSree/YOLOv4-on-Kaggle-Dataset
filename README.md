@@ -40,7 +40,7 @@ Kaggle Dataset: <https://www.kaggle.com/yadola/league-of-legends-champion-minima
 
 #### My Gain from this Repo
 Helped To know
-* How to train YOLO object detection
+* How to train YOLO on custom dataset
 * How to use Google Colab
 * handling Data in cloud(Google drive)
 * Importance of Shell commands
